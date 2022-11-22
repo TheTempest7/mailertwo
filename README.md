@@ -1,5 +1,6 @@
 # mailer
-
+to view a project tap link below
+https://thetempest7.github.io/mailertwo/
 ## Project setup
 ```
 npm install
